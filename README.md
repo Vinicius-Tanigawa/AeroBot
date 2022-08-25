@@ -13,7 +13,7 @@
 ## General info
 This project is a personal project to code a discord bot for the "Aerodesign Brasil" discord server.
 
-Keywords: Discord Bot, JavaScript, EC2, Docker, Nodejs
+Keywords: Discord Bot, JavaScript, Azure VM, Docker, Nodejs
 
 <!---
 ## Screenshots
@@ -38,7 +38,7 @@ Keywords: Discord Bot, JavaScript, EC2, Docker, Nodejs
 ## Status
 Project is: _in progress_.
 
-Version: 2.0.1
+Version: 2.0.2
 
 ## Contact
 Created by Vinicius Kazuhiko Quitakava Tanigawa

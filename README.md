@@ -22,19 +22,18 @@ Keywords: Discord Bot, JavaScript, EC2, Docker, Nodejs
 
 ## Technologies and Dependencies
 * JavaScript
-* EC2
+* Azure Linux VM
 * Docker - v20.10.7
-* Nodejs - v16.9.1
-* discord.js - v13.1.0
+* Nodejs - v16.9.0
+* discord.js - v14.3.0
 * ascii-table - v0.0.9
-* common-tags - v1.8.0
-* discord-api-types - v0.23.1
-* moment - v2.29.1
-* node-os-utils - v1.3.5
-* quick.db - v7.1.3
+* common-tags - v1.8.2
+* moment - v2.29.4
+* node-os-utils - v1.3.7
+* quick.db - v9.0.6
 * simple-node-logger - v21.8.12
-* twemoji-parser - v13.1.0
-* chalk - v4.1.2
+* twemoji-parser - v14.0.0
+* chalk - v5.0.1
 
 ## Status
 Project is: _in progress_.
